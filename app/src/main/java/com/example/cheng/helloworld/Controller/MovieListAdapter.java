@@ -1,4 +1,4 @@
-package com.example.cheng.helloworld;
+package com.example.cheng.helloworld.Controller;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,6 +8,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.example.cheng.helloworld.MovieListModel.MovieListDataResults;
+import com.example.cheng.helloworld.R;
 
 import java.util.List;
 
